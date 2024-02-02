@@ -4,7 +4,6 @@
 [![YOUTUBE](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCvhYKhMYv9SULAb4uLbzxQA)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcosatty&show_icons=true&theme=radical&locale=pt-br)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosatty&layout=donut-vertical=)]
 
 ### Minhas Tecnologias 🕵️‍♂️
 
